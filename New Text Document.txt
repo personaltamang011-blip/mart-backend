@@ -1,0 +1,6 @@
+https://supermarket-backend.onrender.com/orders
+
+🎯 SIMPLE RULE
+Purpose	URL
+Place order	/place-order
+View orders	/orders
